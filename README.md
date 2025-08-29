@@ -3,7 +3,7 @@
 - Esta é uma landing page para um app mobile, feita com HTML CSS.
 - Designe responsivo
 
-## Como começar
+## Como começar?
 
 1. Clone o repositório.
 2. Abra o arquivo `index.html` em um navegador para visualizar a página.
