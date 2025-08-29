@@ -1,5 +1,19 @@
-*{
-margin: 0px;
-padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
 
+.wrapper {
+  height: 100vh;
+  width: 100vh;
+}
+
+.container-left {
+  display: inline-block;
+}
+
+.container-right {
+  display: inline-block;
 }
